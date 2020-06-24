@@ -8,9 +8,9 @@ Visando aprender mais sobre o maravilhoso mundo de Python, abrangendo TDD, BDD, 
         
 
 ## Tópicos
-* [Informações Gerais](#Informações Gerais)
+* [Informações Gerais](#informacoes-gerais)
 * [Tecnologias](#tecnologias)
-* [Testes Unitários](#Testes Unitários)
+* [Testes Unitários](#testes-unitarios)
 
 ## Informações Gerais
 Estarei utilizando exercicios táis como:
